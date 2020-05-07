@@ -2,7 +2,7 @@
 <package format="2">
   <name>avatar</name>
   <version>2.0.0</version>
-  <description>The avatar package</description>
+  <description>The avatar face detection package</description>
   <maintainer email="jenkin@eecs.yorku.ca">ros</maintainer>
 
 
